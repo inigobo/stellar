@@ -1,0 +1,12 @@
+.footerDesign {
+
+    height: 10vh;
+    width: 100vw;
+
+    background-color: lightsteelblue;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
