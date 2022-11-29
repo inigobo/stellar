@@ -1,0 +1,12 @@
+.locationsDesign {
+
+    height: 70vh;
+    width: 100vw;
+
+    background-color: lightgray;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
